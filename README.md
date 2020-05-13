@@ -1,6 +1,6 @@
 # flutterapp
 
-A new Flutter application.
+A mobile app built with Flutter to play with Deezer and guess Music
 
 ## Getting Started
 
