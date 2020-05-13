@@ -1,4 +1,4 @@
-# flutterapp
+# flutter-deezer-game
 
 A mobile app built with Flutter to play with Deezer and guess Music
 
@@ -14,4 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# flutter-deezer-game
+
